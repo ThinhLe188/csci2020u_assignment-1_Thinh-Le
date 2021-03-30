@@ -1,7 +1,5 @@
 *.class
 *.bin
 data/
-data2/
-data3/
 out/
 .vscode/
